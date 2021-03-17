@@ -1,0 +1,31 @@
+{
+  "name": "passport-local-near",
+  "version": "1.0.0",
+  "description": "A plugin to authenticate users through their NEAR wallets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gagdiez/passport-near.git"
+  },
+  "keywords": [
+    "passport",
+    "near",
+    "blockchain",
+    "decentralized"
+  ],
+  "author": "gagdiez",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/gagdiez/passport-near/issues"
+  },
+  "homepage": "https://github.com/gagdiez/passport-near#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "borsh": "^0.3.1",
+    "js-sha256": "^0.9.0",
+    "tweetnacl": "^1.0.3"
+  }
+}
