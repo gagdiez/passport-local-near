@@ -88,4 +88,4 @@ This function asks the user to sign a message, and sends the signed message + us
 
 ## Example
 
-You can find a minimal example using local-passport-near [here](https://github.com/gagdiez/passport-local-near-example).
+You can find a minimal example using local-passport-near [here](https://github.com/gagdiez/MinimalNodeJS/blob/main/minimal-login-near).
