@@ -2,7 +2,7 @@
 
 <img alt="version" src="https://img.shields.io/npm/v/passport-local-near" style="max-width:100%;"> <img alt="install size" src="https://packagephobia.now.sh/badge?p=passport-local-near" style="max-width:100%;"> <img alt="license" src="https://img.shields.io/github/license/gagdiez/passport-local-near">
 
-A plugin for [passport](https://github.com/jaredhanson/passport) that allows users to authenticate in your [express](https://github.com/expressjs/express) app using their [NEAR wallet](wallet.near.org).
+A plugin for [passport](https://github.com/jaredhanson/passport) that allows users to authenticate in your [express](https://github.com/expressjs/express) app using their [NEAR wallet](https://wallet.near.org).
 
 ## How does it work?
 
